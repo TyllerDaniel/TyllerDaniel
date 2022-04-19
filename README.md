@@ -1,4 +1,4 @@
-Hi 👋 My name is Tyller Gachengoh
+Hi 👋 My name is Gachengoh
 =================================
 
 Blockchain Web Developer
