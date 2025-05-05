@@ -1,14 +1,14 @@
 Hi 👋 My name is Gachengoh
 =================================
 
-Blockchain Web Developer
+Software Developer & vibe Coder
 ------------------------
 
-I am a lover of technology. A blockchain believer and very fast learner. Code runs in my blood.
+I am a lover of AI technology and believe it will revolutionize The World As we know it. A blockchain believer and very fast learner. Code runs in my blood.
 
 * 🌍  I'm based in Nairobi,Kenya
 * ✉️  You can contact me at [gachengomarugu@gmail.com](mailto:gachengomarugu@gmail.com)
-* 🤝  I'm open to collaborating on Web3,Blockchain,ReactJS and NextJS
+* 🤝  I'm open to collaborating on Vibe Coding projects, Web3,Blockchain,ReactJS and NextJS
 
 ### Skills
 
