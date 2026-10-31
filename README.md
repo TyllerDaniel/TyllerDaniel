@@ -1,7 +1,7 @@
 Hi 👋 My name is Gachengoh
 =================================
 
-Software Developer & vibe Coder
+AI & Software Engineer
 ------------------------
 
 I am a lover of AI technology and believe it will revolutionize The World As we know it. A blockchain believer and very fast learner. Code runs in my blood.
